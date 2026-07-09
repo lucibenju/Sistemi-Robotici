@@ -1,0 +1,5 @@
+res://main.tscn
+res://scripts/body.gd
+res://scripts/object_manager.gd
+res://scripts/robot.gd
+res://Components/DDS/dds.gd

@@ -1,0 +1,18 @@
+Robot parameters:
+• Diameter  =   0.28 m
+• M         =   1.5 kg
+• b         =   0.8;
+• β         =   0.7;
+• WB        =   0.25 m.
+
+Control Parameters
+- speed control:
+Fmax = 20 N ;
+Tmax = 10 N m.
+
+- position control:
+• vmax = 1 m/s;
+• ωmax = 3.14 rad/s.
+• acc/dec = 3 m/s2.
+The position control must be implemented using the “virtual robot” technique.
+The candidate has to properly tune all the controllers and show plots that prove the correct tuning.
